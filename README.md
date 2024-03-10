@@ -5,7 +5,7 @@
 - <b>SMB Vulnerability </b>
   - [EternalBlue Exploit](https://github.com/trixiahorner/EternalBlueExploit)
 - <b>Active Directory</b>
-  - [Active Directory Home Lab Setup](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+  - [Active Directory Home Lab Setup](https://github.com/trixiahorner/EternalBlueExploit) 
 
 <h2>👨‍💻 Programming Projects:</h2>
 
