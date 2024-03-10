@@ -19,6 +19,11 @@
 - [Modifying Windows Host File](https://www.instagram.com/reel/CkLbq1PgV37/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)
 - [Getting Started with Hack the Box](https://www.instagram.com/reel/Cjbx9FlgIPD/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)
 
+<h2>📺 Certifications</h2>
+
+- [CompTIA PenTest+ ce Certification](https://www.credly.com/badges/071a9ac4-72b1-4b4f-a601-e46554205149/public_url)
+- [CompTIA Security+ ce Certification](https://www.credly.com/badges/f9afc613-64b5-4d8e-8bfd-0a214eb5bddc/public_url)
+
 
 <h2> 🤳 Connect with me:</h2>
 
