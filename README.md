@@ -2,10 +2,10 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
+- <b>Password Cracking </b>
+  - [Introduction to hashcat](https://github.com/trixiahorner/hashcat-intro)
 - <b>SMB Vulnerability </b>
   - [EternalBlue Exploit](https://github.com/trixiahorner/EternalBlueExploit)
-- <b>Active Directory</b>
-  - [Active Directory Home Lab Setup](https://github.com/trixiahorner/EternalBlueExploit) 
 
 <h2>👨‍💻 Programming Projects:</h2>
 
