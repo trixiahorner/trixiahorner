@@ -10,6 +10,7 @@
 <h2>👨‍💻 Programming Projects:</h2>
 
 - <b>C++ </b>
+  - [https://github.com/trixiahorner/Character-pyramid]
 - <b>Assembly </b>
 - <b>Python </b>
 
