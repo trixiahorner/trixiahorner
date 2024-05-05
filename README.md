@@ -6,6 +6,8 @@
   - [Introduction to hashcat](https://github.com/trixiahorner/hashcat-intro)
 - <b>SMB Vulnerability </b>
   - [EternalBlue Exploit](https://github.com/trixiahorner/EternalBlueExploit)
+- <b>Active Directory </b>
+  - [LLMNR Poisoning](https://medium.com/@trixiahorner/llmnr-poisoning-and-mitigation-d174bde14c83)
 
 <h2>👨‍💻 Programming Projects:</h2>
 
