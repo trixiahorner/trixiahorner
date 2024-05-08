@@ -14,8 +14,9 @@
 
 - <b>C++ </b>
   - [Character Pyramid](https://github.com/trixiahorner/Character-pyramid)
-- <b>Assembly </b>
 - <b>Python </b>
+  - [Python Password Generator](https://github.com/trixiahorner/py-password-generator)
+- <b>Assembly </b>
 
 
 <h2>📺 Videos and Reels</h2>
