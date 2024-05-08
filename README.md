@@ -16,6 +16,7 @@
   - [Character Pyramid](https://github.com/trixiahorner/Character-pyramid)
 - <b>Python </b>
   - [Python Password Generator](https://github.com/trixiahorner/py-password-generator)
+  - [Rock Paper Scissors Game](https://github.com/trixiahorner/rock-paper-scissors)
 - <b>Assembly </b>
 
 
