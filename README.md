@@ -31,6 +31,7 @@
 - [CompTIA PenTest+ ce Certification](https://www.credly.com/badges/071a9ac4-72b1-4b4f-a601-e46554205149/public_url)
 - [CompTIA Network Vulnerability Assessment Professional – CNVP Stackable Certification](https://www.credly.com/badges/30595e64-f3f2-4f12-abe3-f20e60c4f97d/public_url)
 - [CompTIA Security+ ce Certification](https://www.credly.com/badges/f9afc613-64b5-4d8e-8bfd-0a214eb5bddc/public_url)
+- [The Definitive GRC Analyst Master Class](https://i.imgur.com/jYqGlVN.png)
 
 <h2> 🤳 Connect with me:</h2>
 
