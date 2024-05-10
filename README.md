@@ -7,6 +7,7 @@
 - <b>SMB Vulnerability </b>
   - [EternalBlue Exploit](https://github.com/trixiahorner/EternalBlueExploit)
 - <b>Active Directory </b>
+  - [PrintNightmare: Exploiting CVE-2021-1675](https://github.com/trixiahorner/printnightmare-try-hack-me)
   - [LLMNR Poisoning](https://medium.com/@trixiahorner/llmnr-poisoning-and-mitigation-d174bde14c83)
   - [Kerberoasting](https://medium.com/@trixiahorner/inside-the-breach-kerberoasting-in-active-directory-a8d347feaa53)
 
