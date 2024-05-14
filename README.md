@@ -4,6 +4,7 @@
 
 - <b>Active Defense and Cyber Deception </b>
   - [Bluespawn](https://github.com/trixiahorner/Bluespawn)
+  - [Spidertrap](https://github.com/trixiahorner/Spidertrap)
 - <b>SMB Vulnerability </b>
   - [EternalBlue Exploit](https://github.com/trixiahorner/EternalBlueExploit)
 - <b>Active Directory </b>
