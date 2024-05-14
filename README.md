@@ -2,6 +2,8 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
+- <b>Active Defense and Cyber Deception </b>
+  - [Bluespawn](https://github.com/trixiahorner/Bluespawn)
 - <b>Password Cracking </b>
   - [Introduction to hashcat](https://github.com/trixiahorner/hashcat-intro)
 - <b>SMB Vulnerability </b>
