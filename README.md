@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Active Defense and Cyber Deception </b>
-  -[Honey User](https://github.com/trixiahorner/honeyuser)
+  - [Honey User](https://github.com/trixiahorner/honeyuser)
   - [Spidertrap](https://github.com/trixiahorner/Spidertrap)
   - [Bluespawn](https://github.com/trixiahorner/Bluespawn)
 - <b>SMB Vulnerability </b>
