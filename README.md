@@ -4,8 +4,6 @@
 
 - <b>Active Defense and Cyber Deception </b>
   - [Bluespawn](https://github.com/trixiahorner/Bluespawn)
-- <b>Password Cracking </b>
-  - [Introduction to hashcat](https://github.com/trixiahorner/hashcat-intro)
 - <b>SMB Vulnerability </b>
   - [EternalBlue Exploit](https://github.com/trixiahorner/EternalBlueExploit)
 - <b>Active Directory </b>
