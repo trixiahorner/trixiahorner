@@ -5,6 +5,7 @@
 - <b>Active Defense and Cyber Deception </b>
   - [Honey User](https://github.com/trixiahorner/honeyuser)
   - [Spidertrap](https://github.com/trixiahorner/Spidertrap)
+  - [Honeyport](https://github.com/trixiahorner/honeyport)
   - [Atomic Red Team and Bluespawn](https://github.com/trixiahorner/Bluespawn)
 - <b>Active Directory Exploitation </b>
   - [PrintNightmare: Exploiting CVE-2021-1675](https://github.com/trixiahorner/printnightmare-try-hack-me)
