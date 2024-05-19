@@ -6,8 +6,6 @@
   - [Honey User](https://github.com/trixiahorner/honeyuser)
   - [Spidertrap](https://github.com/trixiahorner/Spidertrap)
   - [Atomic Red Team and Bluespawn](https://github.com/trixiahorner/Bluespawn)
-- <b>SMB Vulnerability </b>
-  - [EternalBlue Exploit](https://github.com/trixiahorner/EternalBlueExploit)
 - <b>Active Directory Exploitation </b>
   - [PrintNightmare: Exploiting CVE-2021-1675](https://github.com/trixiahorner/printnightmare-try-hack-me)
   - [LLMNR Poisoning](https://medium.com/@trixiahorner/llmnr-poisoning-and-mitigation-d174bde14c83)
