@@ -34,18 +34,20 @@
 - [CompTIA PenTest+ ce Certification](https://www.credly.com/badges/071a9ac4-72b1-4b4f-a601-e46554205149/public_url)
 - [CompTIA Network Vulnerability Assessment Professional – CNVP Stackable Certification](https://www.credly.com/badges/30595e64-f3f2-4f12-abe3-f20e60c4f97d/public_url)
 - [CompTIA Security+ ce Certification](https://www.credly.com/badges/f9afc613-64b5-4d8e-8bfd-0a214eb5bddc/public_url)
-- [The Definitive GRC Analyst Master Class](https://i.imgur.com/JpJiMGY.png)
 
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="trixiahorner | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="trixiahorner | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="trixiahorner | Medium" width="22px" src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*psYl0y9DUzZWtHzFJLIvTw.png" />][Medium]
 
+[medium]: https://medium.com/@trixiahorner
 [instagram]: https://www.instagram.com/cyber_trixx/
 [linkedin]: https://www.linkedin.com/in/trixiahorner/
 
+
 <!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
