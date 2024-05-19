@@ -13,6 +13,7 @@
 
 <h2>👨‍💻 Programming Projects:</h2>
 
+- <b>Bash Scripting </b>
 - <b>C++ </b>
 - <b>Python </b>
   - [Hangman](https://github.com/trixiahorner/Hangman)
