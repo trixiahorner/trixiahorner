@@ -14,7 +14,6 @@
 <h2>👨‍💻 Programming Projects:</h2>
 
 - <b>C++ </b>
-  - [Character Pyramid](https://github.com/trixiahorner/Character-pyramid)
 - <b>Python </b>
   - [Hangman](https://github.com/trixiahorner/Hangman)
   - [Python Password Generator](https://github.com/trixiahorner/py-password-generator)
