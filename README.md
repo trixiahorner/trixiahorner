@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>Active Defense and Cyber Deception </b>
+- <b>Active Defense and Cyber Deception: Antisyphon training </b>
   - [Honey User](https://github.com/trixiahorner/honeyuser)
   - [Spidertrap](https://github.com/trixiahorner/Spidertrap)
   - [Honeyport](https://github.com/trixiahorner/honeyport)
