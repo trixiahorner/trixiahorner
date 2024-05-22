@@ -7,6 +7,8 @@
   - [Spidertrap](https://github.com/trixiahorner/Spidertrap)
   - [Honeyport](https://github.com/trixiahorner/honeyport)
   - [Atomic Red Team and Bluespawn](https://github.com/trixiahorner/Bluespawn)
+- <b>SOC Core Skills: Antisyphon training
+  - [Linux CLI Malware Detection: Netcat Backdoor}]
 - <b>Active Directory Exploitation </b>
   - [PrintNightmare: Exploiting CVE-2021-1675](https://github.com/trixiahorner/printnightmare-try-hack-me)
   - [LLMNR Poisoning](https://medium.com/@trixiahorner/llmnr-poisoning-and-mitigation-d174bde14c83)
