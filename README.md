@@ -8,6 +8,7 @@
   - [Honeyport](https://github.com/trixiahorner/honeyport)
   - [Atomic Red Team and Bluespawn](https://github.com/trixiahorner/Bluespawn)
 - <b>SOC Core Skills: Antisyphon training </b>
+  - [Firewall Log Review / Log Parsing](https://github.com/trixiahorner/firewall_log_review)
   - [Linux CLI Malware Detection: Netcat Backdoor](https://github.com/trixiahorner/Linux_CLI)
   - [Identifying Bypass Techniques w/ DeepBlueCLI](https://github.com/trixiahorner/DeepBlueCLI)
 - <b>Active Directory Exploitation </b>
