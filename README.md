@@ -23,6 +23,7 @@
   - [iptables Block Rule to set a honeyport](https://github.com/trixiahorner/honeyport)
 - <b>C++ </b>
 - <b>Python </b>
+  - [Parsing json files / extracting keys from dictionary](https://github.com/trixiahorner/json-log-parsing)
   - [Using 'yield from' Statement to Iterate a Nested List](https://github.com/trixiahorner/yield_from)
   - [Hangman](https://github.com/trixiahorner/Hangman)
   - [Python Password Generator](https://github.com/trixiahorner/py-password-generator)
