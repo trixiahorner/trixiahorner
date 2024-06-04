@@ -26,6 +26,7 @@
   - [Caesar Cipher Encryption/Decryption](https://github.com/trixiahorner/caesar_cipher)
   - [Using 'yield from' Statement to Iterate a Nested List](https://github.com/trixiahorner/yield_from)
 - <b>C++ </b>
+  - [C++ Fundamentals](https://github.com/trixiahorner/cpp_Fundamentals)
 - <b>Assembly </b>
 
 
