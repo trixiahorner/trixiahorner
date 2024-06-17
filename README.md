@@ -21,6 +21,7 @@
 
 - <b>Bash Scripting </b>
   - [iptables Block Rule to set a honeyport](https://github.com/trixiahorner/honeyport)
+- <b>Zeek Scripting </b>
 - <b>Python </b>
   - [Parsing json files / extracting keys from dictionary](https://github.com/trixiahorner/json-log-parsing)
   - [Caesar Cipher Encryption/Decryption](https://github.com/trixiahorner/caesar_cipher)
