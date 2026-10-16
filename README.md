@@ -1,69 +1,84 @@
-<h1>Hi, I'm Trixia! </h1>
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+# Trixia Horner
 
-- <b>Active Defense and Cyber Deception: Antisyphon training </b>
-  - [Honey User](https://github.com/trixiahorner/honeyuser)
-  - [Spidertrap](https://github.com/trixiahorner/Spidertrap)
-  - [Honeyport](https://github.com/trixiahorner/honeyport)
-  - [Atomic Red Team and Bluespawn](https://github.com/trixiahorner/Bluespawn)
-- <b>SOC Core Skills: Antisyphon training </b>
-  - [Memory Analysis with Volatility](https://github.com/trixiahorner/memory_analysis)
-  - [Firewall Log Review / Log Parsing](https://github.com/trixiahorner/firewall_log_review)
-  - [Linux CLI Malware Detection: Netcat Backdoor](https://github.com/trixiahorner/Linux_CLI)
-  - [Identifying Bypass Techniques w/ DeepBlueCLI](https://github.com/trixiahorner/DeepBlueCLI)
-- <b>Active Directory Exploitation </b>
-  - [PrintNightmare: Exploiting CVE-2021-1675](https://github.com/trixiahorner/printnightmare-try-hack-me)
-  - [LLMNR Poisoning](https://medium.com/@trixiahorner/llmnr-poisoning-and-mitigation-d174bde14c83)
-  - [Kerberoasting](https://medium.com/@trixiahorner/inside-the-breach-kerberoasting-in-active-directory-a8d347feaa53)
+**Cybersecurity | Python Development | Security Automation**
 
-<h2>👨‍💻 Programming Projects:</h2>
+B.S. Cyber Operations graduate with a background in security operations, vulnerability assessment, and hands-on cybersecurity labs. Currently focused on developing Python-based automation tools, integrating APIs, and applying secure software design principles.
 
-- <b>Bash Scripting </b>
-  - [iptables Block Rule to set a honeyport](https://github.com/trixiahorner/honeyport)
-- <b>Zeek Scripting </b>
-- <b>Python </b>
-  - [Parsing json files / extracting keys from dictionary](https://github.com/trixiahorner/json-log-parsing)
-  - [Caesar Cipher Encryption/Decryption](https://github.com/trixiahorner/caesar_cipher)
-  - [Using 'yield from' Statement to Iterate a Nested List](https://github.com/trixiahorner/yield_from)
-- <b>C++ </b>
-  - [C++ Fundamentals](https://github.com/trixiahorner/cpp_Fundamentals)
-- <b>Assembly </b>
+My interests include security automation, AI-assisted security workflows, and building systems that are reliable, maintainable, and secure.
 
+---
 
-<h2>📺 Videos and Reels</h2>
+## Featured Projects
 
-- [Modifying Windows Host File](https://www.instagram.com/reel/CkLbq1PgV37/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)
-- [Getting Started with Hack the Box](https://www.instagram.com/reel/Cjbx9FlgIPD/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)
+### Security Alert Processing Pipeline
 
-<h2>📺 Certifications</h2>
+**Technologies:** Python, JSON, pytest, Logging
 
-- [CompTIA PenTest+ ce Certification](https://www.credly.com/badges/071a9ac4-72b1-4b4f-a601-e46554205149/public_url)
-- [CompTIA Network Vulnerability Assessment Professional – CNVP Stackable Certification](https://www.credly.com/badges/30595e64-f3f2-4f12-abe3-f20e60c4f97d/public_url)
-- [CompTIA Security+ ce Certification](https://www.credly.com/badges/f9afc613-64b5-4d8e-8bfd-0a214eb5bddc/public_url)
+A Python application that reads, validates, and processes security alerts from JSON files.
 
-<h2> 🤳 Connect with me:</h2>
+- Validates required fields, data types, IP addresses, and severity values.
+- Enriches valid alerts with recommended response actions.
+- Implements modular code, error handling, and logging.
+- Uses pytest to verify validation and processing behavior.
 
-[<img align="left" alt="trixiahorner | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="trixiahorner | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="trixiahorner | Medium" width="22px" src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*psYl0y9DUzZWtHzFJLIvTw.png" />][Medium]
+[View GitHub Repository](https://github.com/trixiahorner/security-alert-pipeline)
 
-[medium]: https://medium.com/@trixiahorner
-[instagram]: https://www.instagram.com/cyber_trixx/
-[linkedin]: https://www.linkedin.com/in/trixiahorner/
+### AI-Assisted SOC Automation with n8n
 
+**Technologies:** n8n, Docker, Webhooks, REST APIs, LLM Integration
 
-<!--
+Built a security alert handling workflow using n8n and an LLM to analyze simulated security alerts and recommend response actions.
 
+Explored the security implications of AI-assisted decision-making, including prompt injection, trust boundaries, and a proposed human-in-the-loop approval process.
 
-Here are some ideas to get you started:
+[Read Technical Writeup](https://medium.com/@trixiahorner/how-much-authority-should-we-give-ai-in-the-soc-6702d331ca78?sk=2dacfc2d2483fc79def86c832b285940)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Technical Writing & Security Research
+
+I document cybersecurity labs, security testing techniques, automation workflows, and lessons learned from hands-on technical projects.
+
+- **[How Much Authority Should We Give AI in the SOC?](https://medium.com/@trixiahorner/how-much-authority-should-we-give-ai-in-the-soc-6702d331ca78?sk=2dacfc2d2483fc79def86c832b285940)**  
+  AI-assisted security automation, prompt-injection risks, and human oversight in security response workflows.
+
+- **[Automating IDOR Fuzzing with Caido](https://medium.com/@trixiahorner/automating-idor-fuzzing-with-caido-b6d894228bb0?sk=99af58eb838d36b539ef8ff86a0d4289)**  
+  Automating web application security testing to investigate insecure direct object references.
+
+- **[Creating a Cross-Site Scripting Worm: A SEED Lab Project](https://medium.com/@trixiahorner/creating-a-cross-site-scripting-worm-a-seed-lab-project-49076b7a8d03?sk=13a5840416d36fe2b1b411be8c09a3a9)**  
+  Exploring JavaScript-based cross-site scripting vulnerabilities in a controlled lab environment.
+
+- **[TryHackMe W1seGuy: XOR Challenge Walkthrough](https://medium.com/@trixiahorner/tryhackme-w1seguy-xor-challenge-walkthrough-35fa3f36b7c3?sk=eeda51d7bc4eb169f64f23d9479348d2)**  
+  Analyzing Python code and weaknesses in XOR-based encryption.
+
+---
+
+## Additional Cybersecurity Projects
+
+Selected hands-on projects from previous cybersecurity training and labs.
+
+- [Memory Analysis with Volatility](https://github.com/trixiahorner/memory_analysis)
+- [Firewall Log Review and Parsing](https://github.com/trixiahorner/firewall_log_review)
+- [Honeyport — Active Defense and Cyber Deception](https://github.com/trixiahorner/honeyport)
+
+---
+
+## Education & Certifications
+
+### Education
+
+- B.S. Cyber Operations — Old Dominion University
+- A.S. Computer Science
+
+### Certifications
+
+- [CompTIA Security+](https://www.credly.com/badges/f9afc613-64b5-4d8e-8bfd-0a214eb5bddc/public_url)
+- [CompTIA PenTest+](https://www.credly.com/badges/071a9ac4-72b1-4b4f-a601-e46554205149/public_url)
+
+---
+
+## Connect
+
+- [LinkedIn](https://www.linkedin.com/in/trixiahorner/)
+- [Medium](https://medium.com/@trixiahorner)
